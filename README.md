@@ -1,4 +1,8 @@
-Bruteforce
+Woodpecker hash Brueforce
 ==========
 
-Simple MD5 brute
+A powerful hash bruteforce for everyone.
+Features: 
+  GUI
+  Lots of hash types
+  Speed
