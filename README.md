@@ -7,3 +7,4 @@ A powerful hash bruteforce for everyone.
   * GUI
   * Lots of hash types
   * Speed
+  * Multiplatform
